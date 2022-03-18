@@ -21,9 +21,9 @@
 
 ## /api/search?q= - Returns -> ...Param Missing ...
 
-## /api/search?q="" - Returns -> [] // A null Array of Questions
+## /api/search?q="" - Returns -> [  ] // An Empty Array
 
-## api/search?q=Lipids such as fats from glycerol and fatty acids - Returns ->[ 9 , 76 , 174 ]
+## /api/search?q=Lipids such as fats from glycerol and fatty acids - Returns -> [ 9 , 76 , 174 ]
 
 
 
