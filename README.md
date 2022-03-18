@@ -7,9 +7,6 @@
     <tr>
         <td>1</td><td><a href="http://app.jatin711-debug.site/api/">http://app.jatin711-debug.site/api/</a></td><td>Google Cloud using Kubernetes</td>
     </tr>
-    <tr>
-        <td>2</td><td><a href="http://pencil.jatin711-debug.site:3000/api/">http://pencil.jatin711-debug.site:3000/api</a></td><td>Amazon EC2</td>
-    </tr>
 </table>
 <hr>
 
