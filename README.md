@@ -13,9 +13,17 @@
 </table>
 <hr>
 
-# NOTE: I Added a little bit of Complexity of Hosting Into Cloud on my own by using Kubernetes because I just learnt GCP Kubernetes a couple of days ago(Just wanted to try out my skills).
+# NOTE: I Added a little bit of Complexity of Hosting Into Cloud on my own using Kubernetes because I just learnt GCP Kubernetes a couple of days ago.
 
-## /api
+## /api  - Return -> Available Routes: GET "/search
+
+## /api/search - Returns -> ...Param Missing ...
+
+## /api/search?q= - Returns -> ...Param Missing ...
+
+## /api/search?q="" - Returns -> [] // A null Array of Questions
+
+## api/search?q=Lipids such as fats from glycerol and fatty acids - Returns ->[ 9 , 76 , 174 ]
 
 
 
